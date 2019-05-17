@@ -188,5 +188,5 @@
 	- [最长不含重复字符的子字符串](offer/LongestNoRepeatSubString.md)
 	- [在排序数组中查找数字](offer/CountOfSortedArray.md)
 	- [二叉搜索树的第K大节点](offer/BSTKthNode.md)
-	- [滑动窗口的最大值]()
-	- [股票的最大利润]()
+	- [滑动窗口的最大值](offer/MaxInWindows.md)
+	- [股票的最大利润](offer/MaxProfit.md)

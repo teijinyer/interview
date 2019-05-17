@@ -8,6 +8,57 @@
 
 ## 解题思路
 
+### 模拟
+
+最简单直接的解法，但是时间效率不够
+
+```
+public int LastRemaining_Solution(int n, int m) {
+    if (n == 1) return 1;
+
+    LinkedList<Integer> data = new LinkedList<>();
+    for (int i = 0; i < n; i++) {
+        data.addLast(i);
+    }
+
+    while (data.size() != 1) {
+        for (int i = 0; i < m; i++) {
+            Integer first = data.pollFirst();
+
+            if (i != m - 1) {
+                data.addLast(first);
+            }
+        }
+    }
+
+
+    return data.pollFirst();
+}
 ```
 
+### 通过数学推导的解法
+
+时间效率和空间效率都很高，但是。。。没看懂
+
+$$
+f(n,m)=
+\begin{cases}
+0&n=1 \\
+[f(n-1,m)+m]\%n & n>1
+\end{cases}
+$$
+
+```
+public int LastRemaining_Solution(int n, int m) {
+    if (n == 0) return -1;
+
+    if (n == 1) return 0;
+
+    int last = 0;
+    for (int i = 2; i <= n; i++) {
+        last = (last + m) % i;
+    }
+
+    return last;
+}
 ```
