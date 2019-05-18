@@ -191,7 +191,7 @@
 	- [滑动窗口的最大值](offer/MaxInWindows.md)
 	- [股票的最大利润](offer/MaxProfit.md)
 - [LeetCode](leetcode/README.md)
-	- [**无重复字符的最长子串**](leetcode/lengthOfLongestSubstring.md)
+	- [* 无重复字符的最长子串](leetcode/lengthOfLongestSubstring.md)
 	- [最长公共前缀](leetcode/longestCommonPrefix.md)
 	- [字符串的排列](leetcode/checkInclusion.md)
 	- [字符串相乘](leetcode/StringMultiply.md)
