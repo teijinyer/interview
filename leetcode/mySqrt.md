@@ -1,5 +1,7 @@
 # [x 的平方根](https://leetcode-cn.com/explore/interview/card/bytedance/247/bonus/1045/)
 
+**头条重点**
+
 ## 题目
 
 实现 int sqrt(int x) 函数。

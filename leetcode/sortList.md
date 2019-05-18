@@ -1,5 +1,7 @@
 # [排序链表](https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1040/)
 
+**头条重点**
+
 ## 题目
 
 在 O(n log n) 时间复杂度和常数级空间复杂度下，对链表进行排序。

@@ -1,5 +1,7 @@
 # [搜索旋转排序数组](https://leetcode-cn.com/explore/interview/card/bytedance/243/array-and-sorting/1017/)
 
+**头条重点**
+
 ## 题目
 
 假设按照升序排序的数组在预先未知的某个点上进行了旋转。( 例如，数组 `[0,1,2,4,5,6,7]` 可能变为 `[4,5,6,7,0,1,2]` )。

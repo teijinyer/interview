@@ -1,5 +1,7 @@
 # [第二高的薪水](https://leetcode-cn.com/explore/interview/card/bytedance/247/bonus/1039/)
 
+**头条重点**
+
 ## 题目
 
 编写一个 SQL 查询，获取 Employee 表中第二高的薪水（Salary） 。

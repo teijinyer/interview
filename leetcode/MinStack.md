@@ -1,5 +1,6 @@
 # [最小栈](https://leetcode-cn.com/explore/interview/card/bytedance/245/data-structure/1049/)
 
+**头条重点**
 
 ## 题目
 

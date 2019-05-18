@@ -1,5 +1,7 @@
 # [复原IP地址](https://leetcode-cn.com/explore/interview/card/bytedance/242/string/1044/)
 
+**头条重点**
+
 ## 题目
 
 给定一个只包含数字的字符串，复原它并返回所有可能的 IP 地址格式。

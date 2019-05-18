@@ -1,5 +1,7 @@
 # [反转链表](https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1038/)
 
+**头条重点**
+
 ## 题目
 
 反转一个单链表。

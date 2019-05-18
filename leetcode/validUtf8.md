@@ -1,5 +1,7 @@
 # [UTF-8 编码验证](https://leetcode-cn.com/explore/interview/card/bytedance/247/bonus/1037/)
 
+**头条重点**
+
 ## 题目
 
 UTF-8 中的一个字符可能的长度为 1 到 4 字节，遵循以下的规则：

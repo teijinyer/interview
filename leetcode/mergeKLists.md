@@ -1,5 +1,7 @@
 # [合并K个排序链表](https://leetcode-cn.com/explore/interview/card/bytedance/244/linked-list-and-tree/1025/)
 
+**头条重点**
+
 ## 题目
 
 合并 k 个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
